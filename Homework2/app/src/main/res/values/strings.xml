@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="text1">Celcius</string>
+    <string name="text2">0</string>
+    <string name="text3">Convert\n</string>
+    <string name="text4" />
+    <string name="text5">0</string>
+    <string name="btn_text">Convert</string>
+</resources>
